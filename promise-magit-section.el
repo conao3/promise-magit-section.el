@@ -28,7 +28,7 @@
 
 ;;; Code:
 
-(require magit-section)
+(require 'magit-section)
 
 (defgroup promise-magit-section nil
   "Promise frontend of magit-section."
