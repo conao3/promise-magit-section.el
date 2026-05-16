@@ -5,7 +5,7 @@
 ;; Author: Naoya Yamashita <conao3@gmail.com>
 ;; Version: 0.0.1
 ;; Keywords: convenience
-;; Package-Requires: ((emacs "26.1") (magit-section "2.90"))
+;; Package-Requires: ((emacs "28.1") (magit-section "2.90"))
 ;; URL: https://github.com/conao3/promise-magit-section.el
 
 ;; This program is free software: you can redistribute it and/or modify
@@ -28,7 +28,7 @@
 
 ;;; Code:
 
-(require magit-section)
+(require 'magit-section)
 
 (defgroup promise-magit-section nil
   "Promise frontend of magit-section."
