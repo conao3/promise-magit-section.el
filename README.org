@@ -10,7 +10,7 @@ A promise-based frontend for [[https://github.com/magit/magit][magit-section]].
 * Requirements
 
 - Emacs 28.1 or later
-- magit-section 2.90 or later
+- magit-section 4.5.0 or later
 
 * Installation
 
